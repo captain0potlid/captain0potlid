@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm AndreiWasFound</h1>
+<h1 align="center">Hi 👋, I'm Captain0potlid!</h1>
 <h3 align="center">An minecraft plugins developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=andreiwasfound" alt="andreiwasfound" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=captain0potlid" alt="captain0potlid" /> </p>
 
 - 🔭 I’m currently working on **[minecraft plugins](https://www.spigotmc.org/resources/authors/andreisava4.890477/)**
 
