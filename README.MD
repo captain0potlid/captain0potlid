@@ -9,7 +9,7 @@
 
 - 👨‍💻 섭외 및 의뢰 * 외주 문의는 디스코드를 통해 받고 있습니다! **[Discord](alert("captain0potlid#2527"))** or **[GitHub](http://andreiwasfound.ddns.net/github)**
 
-- 💬 **Spigot API** 가 궁금하시다면 저에게 물어봐 주세요!
+- 💬 **Spigot API** 가 궁금하시다면 저에게 물어봐 주세요! 
 
 - 📫 매일매일 github 와 discord 를 확인하고 있으니 자유롭게 연락해주세요!
 
