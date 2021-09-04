@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=captain0potlid" alt="captain0potlid" /> </p>
 
-- 🔭 저는 **[minecraft plugins](alert("NO DATA"))** 를 만들고 있습니다!
+- 🔭 저는 **[minecraft plugins](https://minecraft.net)** 를 만들고 있습니다!
 
 - 🌱 지금은 **Java** 를 공부하면서 사랑하고 있습니다!
 
