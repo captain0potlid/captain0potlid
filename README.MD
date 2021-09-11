@@ -8,7 +8,7 @@
 
 - 🌱 지금은 **Java** 를 공부하면서 사랑하고 있습니다!
 
-- 👨‍💻 섭외 및 의뢰 * 외주 문의는 디스코드를 통해 받고 있습니다! **[Discord](alert("captain0potlid#2527"))** or **[GitHub](http://andreiwasfound.ddns.net/github)**
+- 👨‍💻 섭외 및 의뢰 * 외주 문의는 디스코드를 통해 받고 있습니다! **[Discord](https://discord.com)** or **[GitHub](http://andreiwasfound.ddns.net/github)**
 
 - 💬 이 깃허브는 전체 작업의 20%만 올라오는 지극히 개인적인 용도의 페이지입니다
 
