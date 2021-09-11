@@ -8,8 +8,3 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=captain0potlid" alt="captain0potlid" /> </p>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=captain0potlid&show_icons=true" alt="captain0potlid" /> </p>
-
-<p align="center">
-<a href="https://twitter.com/captain0potlid" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="captain0potlid" height="20" width="20" /></a>
-<a href="https://www.youtube.com/c/captain0potlid" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="captain0potlid" height="20" width="20" /></a>
-</p>
