@@ -1,18 +1,11 @@
-<h1 align="center">안녕 나는 캡틴프록이다 (captain0potlid % kr_elice)</h1>
-<h3 align="center">마인크레프트 플러그인 백엔드(프론트엔드 사절 DB전문임 ㅇㅇ) 개발자 겸 기획자</h3>
-<h5 align="center">[이름이 왜 그따구야? 라고 한다면 음.... 네이버에서 랜덤으로 돌렸어^^ tlqkf zzzz ]</h5>
+<h1 align="center">/#/ 게시판 /#/</h1>
+<h4 align="center">(기존 프로필은 *누군가*가 봤다고 하는데 괜히 부끄러워서 바꿈 ㅋㅋ)</h4><h6 align="center">학교에서 본 너!</h6>
+<h4 align="center">(서브 페이지에 있던 이슈 처리들이 이 게시판에 보일 예정입니다)</h4>
 
+<h8 align="center">--------------------------------------------------------------------------------------------------------------------------------------------------------</h8>
+
+**[minecraft plugins](https://minecraft.net)**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=captain0potlid" alt="captain0potlid" /> </p>
-
-- 🔭 저는 **[minecraft plugins](https://minecraft.net)** 를 만들고 있습니다!
-
-- 🌱 지금은 **Java** 를 공부하면서 사랑하고 있습니다!
-
-- 👨‍💻 섭외 및 의뢰 * 외주 문의는 디스코드를 통해 받고 있습니다! **[Discord](https://discord.com)** or **[GitHub](http://andreiwasfound.ddns.net/github)**
-
-- 💬 이 깃허브는 전체 작업의 20%만 올라오는 지극히 개인적인 용도의 페이지입니다
-
-- 📫 매일매일 github 와 discord 를 확인하고 있으니 자유롭게 연락해주세요!
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=captain0potlid&show_icons=true" alt="captain0potlid" /> </p>
 
