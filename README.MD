@@ -9,11 +9,11 @@
 
  ■ 개발중
 
-[⏳] **[TYRUNT 모드 2(MC 1.12.2 FORGE)]** - 사용언어<JAVA> 사용범위<ALL>
+[⏳] **[TYRUNT 모드 2(MC 1.12.2 FORGE)]** - 사용언어< JAVA > 사용범위< AL L>
   
-[⏳] **[DYNAMIC CHATS 플러그인(MC 1.12.2 FORGE)]** - 사용언어<JAVA> 사용범위<ALL>
+[⏳] **[DYNAMIC CHATS 플러그인(MC 1.12.2 FORGE)]** - 사용언어< JAVA > 사용범위< ALL >
   
-[⏳] **[트위치 VOD 다운로드 도구]** - 사용언어<JAVA, HTML5, CSS> 사용범위<개인>
+[⏳] **[트위치 VOD 다운로드 도구]** - 사용언어< JAVA, HTML5, CSS > 사용범위< 개인 >
 
  ■ 오류발생
   
