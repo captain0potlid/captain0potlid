@@ -1,5 +1,5 @@
 <h1 align="center">안녕하세요! 👋, 저는 캡틴프록입니다! (captain0potlid % kr_elice)</h1>
-<h3 align="center">마인크레프트 플러그인 프론트엔드 개발자 겸 기획자</h3>
+<h3 align="center">마인크레프트 플러그인 백엔드(프론트엔드 사절 DB전문임 ㅇㅇ) 개발자 겸 기획자</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=captain0potlid" alt="captain0potlid" /> </p>
 
