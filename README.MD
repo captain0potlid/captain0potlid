@@ -1,6 +1,6 @@
 <h1 align="center">안녕 나는 캡틴프록이다 (captain0potlid % kr_elice)</h1>
 <h3 align="center">마인크레프트 플러그인 백엔드(프론트엔드 사절 DB전문임 ㅇㅇ) 개발자 겸 기획자</h3>
-<h3 align="center">[이름이 왜 그따구야? 라고 한다면 음.... 네이버에서 랜덤으로 돌렸어^^ tlqkf zzzz ]</h3>
+<h5 align="center">[이름이 왜 그따구야? 라고 한다면 음.... 네이버에서 랜덤으로 돌렸어^^ tlqkf zzzz ]</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=captain0potlid" alt="captain0potlid" /> </p>
 
