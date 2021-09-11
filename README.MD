@@ -1,7 +1,18 @@
 <h1 align="center">/#/ 게시판 /#/</h1>
 <h4 align="center">(기존 프로필은 *누군가*가 봤다고 하는데 괜히 부끄러워서 바꿈 ㅋㅋ)</h4><h6 align="center">학교에서 본 너!</h6>
-<h4 align="center">(그래서 암튼 여기에는 개발 현황이나 올릴여구요 ㅋㅋ)</h4>
+<h4 align="center">(그래서 암튼 여기에는 원래 NOTION 에 올렸던 개발 현황이나 올릴여구요 ㅋㅋ)</h4>
 
 <h8 align="center">--------------------------------------------------------------------------------------------------------------------------------------------------------</h8>
+<h8 align="left">Last updated : 2021 - 09 - 12 . AM 5:32</h8>
+<h8 align="left">Edited by : [OWNER] captain0potlid</h8>
 
-[🚧] **[MUJUBANK-ATM VERSION EIGHT v1.2.01](https://github.com/captain0potlid/mujubank8atm)** - des.java 11
+[⏳] **[TYRUNT 모드 2(MC 1.12.2 FORGE)]** - 사용언어<JAVA> 사용범위<ALL>
+[⏳] **[DYNAMIC CHATS 플러그인(MC 1.12.2 FORGE)]** - 사용언어<JAVA> 사용범위<ALL>
+[⏳] **[트위치 VOD 다운로드 도구]** - 사용언어<JAVA, HTML5, CSS> 사용범위<개인>
+
+[🚧] **[MUJUBANK-ATM VERSION EIGHT v1.2.01](https://github.com/captain0potlid/mujubank8atm)** - 돈 시스템 버그 발생(des.java.32) 현재 발생원인 조사중
+
+[🛑] **[하이픽셀 서버 부속 플러그인 - B93번(스카이블럭)]** - 보안 시스템과 충돌 문제 발생 작동정지 및 배포중지
+[🛑] **[하이픽셀 서버 부속 플러그인 - B94번(스카이블럭)]** - 보안 시스템과 충돌 문제 발생 작동정지 및 배포중지
+[🛑] **[하이픽셀 서버 부속 플러그인 - B95번(스카이블럭)]** - 보안 시스템과 충돌 문제 발생 작동정지 및 배포중지
+[🛑] **[TYRUNT 모드(MC 1.12.2 FORGE)]** - 리소스 저작권 문제로 배포중지(개인적 용도 사용 가능)
