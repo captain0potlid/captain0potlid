@@ -10,14 +10,20 @@
 
 <h8 align="left">Edited by : [OWNER] captain0potlid</h8>
 
+ ■ 개발중
+
 [⏳] **[TYRUNT 모드 2(MC 1.12.2 FORGE)]** - 사용언어<JAVA> 사용범위<ALL>
   
 [⏳] **[DYNAMIC CHATS 플러그인(MC 1.12.2 FORGE)]** - 사용언어<JAVA> 사용범위<ALL>
   
 [⏳] **[트위치 VOD 다운로드 도구]** - 사용언어<JAVA, HTML5, CSS> 사용범위<개인>
 
+ ■ 오류발생
+  
 [🚧] **[MUJUBANK-ATM VERSION EIGHT v1.2.01](https://github.com/captain0potlid/mujubank8atm)** - 돈 시스템 버그 발생(des.java.32) 현재 발생원인 조사중
-
+  
+ ■ 오류발생
+  
 [🛑] **[하이픽셀 서버 부속 플러그인 - B93번(스카이블럭)]** - 보안 시스템과 충돌 문제 발생 작동정지 및 배포중지
   
 [🛑] **[하이픽셀 서버 부속 플러그인 - B94번(스카이블럭)]** - 보안 시스템과 충돌 문제 발생 작동정지 및 배포중지
