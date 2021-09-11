@@ -19,7 +19,7 @@
   
 [🚧] **[MUJUBANK-ATM VERSION EIGHT v1.2.01](https://github.com/captain0potlid/mujubank8atm)** - 돈 시스템 버그 발생(des.java.32) 현재 발생원인 조사중
   
- ■ 오류발생
+ ■ 배포중지 또는 서비스 종료(지원종료)
   
 [🛑] **[하이픽셀 서버 부속 플러그인 - B93번(스카이블럭)]** - 보안 시스템과 충돌 문제 발생 작동정지 및 배포중지
   
