@@ -9,7 +9,7 @@
 
  ■ 개발중
 
-[⏳] **[TYRUNT 모드 2(MC 1.12.2 FORGE)]** - 사용언어< JAVA > 사용범위< AL L>
+[⏳] **[TYRUNT 모드 2(MC 1.12.2 FORGE)]** - 사용언어< JAVA > 사용범위< ALL>
   
 [⏳] **[DYNAMIC CHATS 플러그인(MC 1.12.2 FORGE)]** - 사용언어< JAVA > 사용범위< ALL >
   
