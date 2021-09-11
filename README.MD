@@ -1,6 +1,6 @@
 <h1 align="center">/#/ 게시판 /#/</h1>
 
-<h4 align="center">(기존 프로필은 *누군가*가 봤다고 하는데 괜히 부끄러워서 바꿈 ㅋㅋ)</h4><h6>학교에서 본 너!</h6>
+<h4 align="center">(기존 프로필은 *누군가*가 봤다고 하는데 괜히 부끄러워서 바꿈 ㅋㅋ)학교에서 본 너!</h4>
 
 <h4 align="center">(그래서 암튼 여기에는 원래 NOTION 에 올렸던 개발 현황이나 올릴여구요 ㅋㅋ)</h4>
 
@@ -9,6 +9,11 @@
 <h8 align="left">Last updated : 2021 - 09 - 12 . AM 5:32</h8>
 
 <h8 align="left">Edited by : [OWNER] captain0potlid</h8>
+
+
+
+
+
 
 [⏳] **[TYRUNT 모드 2(MC 1.12.2 FORGE)]** - 사용언어<JAVA> 사용범위<ALL>
   
