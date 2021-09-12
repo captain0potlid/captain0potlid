@@ -6,7 +6,7 @@
 
 <h4 align="center">■ □ ■ □ ■ □ ■</h4>
 
-<h4 align="center">Sorry, no systems are available for Minecraft.net/api.0164go to connect</h4>
+<h4 align="center">NO SYSTEMS ARE BEING OPERATED AT THIS TIME(SEP)</h4>
 
 <h4 align="center">■ □ ■ □ ■ □ ■</h4>
 
