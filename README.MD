@@ -8,6 +8,8 @@
 
 <h4 align="center">잔여 MUJU 시리즈 플러그인들의 배포는 자동으로 9월 17일에 실행됩니다!</h4>
 
+<h7 align="center">(MUJU-SEC, MUJU-ADMIN, MUJU-XRAYcoc 1.0 beta 포함 5개)</h7>
+
 <h4 align="center">■ □ ■ □ ■ □ ■</h4>
 
 <h8 align="left">Last updated : 2021 - 09 - 12 . AM 0:04</h8>
