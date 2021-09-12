@@ -23,7 +23,7 @@
 
 <h4 align="center">■ □ ■ □ ■ □ ■</h4>
 
-<h8 align="right">Last updated : *NULL0*</h8>
+<h8 align="right">Last updated : *no data from 메인서버-5600x*</h8>
 
 <h8 align="right">Edited by : [BOT] I_HATE_유은혜 (Made by captain0potlid /Private REPO/)</h8>
  
