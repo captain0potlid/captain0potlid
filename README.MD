@@ -6,9 +6,7 @@
 
 <h4 align="center">■ □ ■ □ ■ □ ■</h4>
 
-<h4 align="center">잔여 MUJU 시리즈 플러그인들의 배포는 자동으로 9월 17일에 실행됩니다!</h4>
-
-<h6 align="center">(MUJU-SEC, MUJU-ADMIN, MUJU-XRAYcoc 1.0 beta 포함 5개)</h6>
+<h4 align="center">Sorry, no systems are available for Minecraft.net/api.0164go to connect</h4>
 
 <h4 align="center">■ □ ■ □ ■ □ ■</h4>
 
