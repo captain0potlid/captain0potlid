@@ -10,7 +10,7 @@
 
 ❗ [메인서버-5600x] - NO CONNECTION
 
-⚠️ [개발서버-4950G] - CONNECTED.. 3 WARNINGS IN SITE
+⚠️ [개발서버-4950G] - CONNECTED.. 2437 ERRORS IN 무주뱅크베타test09.jar
 
 ❗ [복구서버-5950X] - NO CONNECTION
 
@@ -18,7 +18,7 @@
 
 ✔️ [개인컴-개빠름] - CONNECTED SUCCESSFULLY(USER 제윤찬 IN USE)
 
-✔️ [임시가상컴 AP6797 192.168.53.99-B] - CONNECTED SUCCESSFULLY(SLEEP MODE)
+✔️ [임시가상컴 AP6797 192.168.53.99-B] - CONNECTED SUCCESSFULLY(USER admin IN USE)
 
 
 <h4 align="center">■ □ ■ □ ■ □ ■</h4>
