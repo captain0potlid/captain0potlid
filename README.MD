@@ -25,5 +25,5 @@
 
 <h8 align="right">Last updated : *no data from 메인서버-5600x*</h8>
 
-<h8 align="right">Edited by : [BOT] I_HATE_유은혜 (Made by captain0potlid /Private REPO/)</h8>
+<h8 align="right">Edited by : *no data from 메인서버-5600x*</h8>
  
