@@ -14,11 +14,11 @@
 
 ❗ [복구서버-5950X] - NO CONNECTION
 
-✔️ [개인컴-구린거] - CONNECTED SUCCESSFULLY(USER 제윤찬인듯 IN USE)
+❗ [개인컴-구린거] - NO CONNECTION
 
 ✔️ [개인컴-개빠름] - CONNECTED SUCCESSFULLY(USER 제윤찬 IN USE)
 
-✔️ [임시가상컴 AP6797 192.168.53.99-B] - CONNECTED SUCCESSFULLY(USER admin IN USE)
+❗ [임시가상컴 AP6797 192.168.53.99-B] - NO CONNECTION
 
 
 <h4 align="center">■ □ ■ □ ■ □ ■</h4>
