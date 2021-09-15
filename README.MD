@@ -10,7 +10,7 @@
 
 ❗ [메인서버-5600x] - NO CONNECTION
 
-⚠️ [개발서버-4950G] - CONNECTED.. 2437 ERRORS IN 무주뱅크베타test09.jar
+⚠️ [개발서버-4950G] - CONNECTED.. 5214 ERRORS IN 무주뱅크베타test09.jar
 
 ❗ [복구서버-5950X] - NO CONNECTION
 
