@@ -10,7 +10,7 @@
 
 ❗ [메인서버-5600x] - NO CONNECTION
 
-⚠️ [개발서버-4950G] - CONNECTED.. 5214 ERRORS IN 무주뱅크베타test09.jar
+⚠️ [개발서버-4950G] - CONNECTED.. #NO MEMORY DECTECTED BY BIOS - no valid connections in progress#
 
 ❗ [복구서버-5950X] - NO CONNECTION
 
@@ -18,12 +18,11 @@
 
 ❗ [개인컴-개빠름] - NO CONNECTION
 
-❗ [임시가상컴 AP6797 192.168.53.99-B] - NO CONNECTION
+⚠️ [임시가상컴 AP6797 192.168.53.99-B] - <DEAD PROCESS UNTIL 10/7>
 
 
 <h4 align="center">■ □ ■ □ ■ □ ■</h4>
 
-<h8 align="right">Last updated : *no data from 메인서버-5600x*</h8>
+<h8 align="right">Last updated : *2021-09-18:00-00*</h8>
 
-<h8 align="right">Edited by : *no data from 메인서버-5600x*</h8>
- 
+<h8 align="right">Edited by : *captain0potlid's github*</h8>
