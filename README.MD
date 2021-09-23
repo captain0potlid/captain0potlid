@@ -10,15 +10,15 @@
 
 ❗ [메인서버-5600x] - NO CONNECTION
 
-⚠️ [개발서버-4950G] - CONNECTED.. #NO MEMORY DECTECTED BY BIOS - no valid connections in progress#
+❗ [개발서버-4950G] - CONNECTED.. SLEEP(IDLE) MODE RETURNED.
 
 ❗ [복구서버-5950X] - NO CONNECTION
 
 ❗ [개인컴-구린거] - NO CONNECTION
 
-❗ [개인컴-개빠름] - PRIVATE CONNECTION FROM - 대한민국, 서울, 잠원동 2로, Starbucks_WIFI(SSI/HTTPS) : 접근이 거부됨
+🔐 [개인컴-노트북] - PRIVATE CONNECTION FROM - 대한민국, 서울, 잠원동. Starbucks_WIFI(SSI/HTTPS) : 접근이 거부됨
 
-⚠️ [임시가상컴 AP6797 192.168.53.99-B] - <DEAD PROCESS UNTIL 10/7>
+❗ [임시가상컴 AP6797 192.168.53.99-B] - <DEAD PROCESS UNTIL 10/7>
 
 
 <h4 align="center">■ □ ■ □ ■ □ ■</h4>
