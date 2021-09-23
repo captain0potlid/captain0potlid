@@ -26,4 +26,5 @@
 <h8 align="right">Last updated : *1960-01-01:00-00*</h8>
 
 <h8 align="right">Edited by : [AUTO] Yunchan Je</h8>
+
 <h9 align="left">POWERED BY asked.kr 익명질문 API</h9>
