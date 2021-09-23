@@ -23,6 +23,6 @@
 
 <h4 align="center">■ □ ■ □ ■ □ ■</h4>
 
-<h8 align="right">Last updated : *2021-09-18:00-00*</h8>
+<h8 align="right">Last updated : *1960-01-01:00-00*</h8>
 
-<h8 align="right">Edited by : *captain0potlid's github*</h8>
+<h8 align="right">Edited by : [AUTO] Yunchan Je</h8>
