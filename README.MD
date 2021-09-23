@@ -16,7 +16,7 @@
 
 ❗ [개인컴-구린거] - NO CONNECTION
 
-❗ [개인컴-개빠름] - NO CONNECTION
+❗ [개인컴-개빠름] - PRIVATE CONNECTION FROM - 대한민국, 서울, 잠원동 2로, Starbucks_WIFI(SSI/HTTPS) : 접근이 거부됨
 
 ⚠️ [임시가상컴 AP6797 192.168.53.99-B] - <DEAD PROCESS UNTIL 10/7>
 
