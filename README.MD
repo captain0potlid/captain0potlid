@@ -16,7 +16,7 @@
 
 ❗ [개인컴-구린거] - NO CONNECTION
 
-🔐 [개인컴-노트북] - PRIVATE CONNECTION FROM - 대한민국, 서울, 영등포구 국회의사당로 727-1 KB금융_공용WIFI
+🔐 [개인컴-노트북] - PRIVATE CONNECTION FROM localhost:8888/serverdev/saves/62/duray.sys.wifi
 
 ❗ [임시가상컴 AP6797 192.168.53.99-B] - <DEAD PROCESS UNTIL 10/7>
 
