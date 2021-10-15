@@ -5,4 +5,7 @@
 <h4 align="center">원하는 플러그인.모드도 만들어준다구!</h4>
 
 <h4 align="center">#사용언어 - JAVA, NODE.js, kotlin, python, JS, go</h4>
+<h4 align="center">#작업분야 - Minecraft, Kubble space program, WindowsOS, webTF</h4>
 
+
+<h4 align="center">& 10월 커미션, 외주 안받습니다 &</h4>
