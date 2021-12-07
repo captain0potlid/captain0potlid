@@ -8,4 +8,4 @@
 <h4 align="center">#작업분야 - Minecraft, Kubble space program, WindowsOS, webTF</h4>
 
 
-<h4 align="center">& 10월 커미션, 외주 안받습니다 &</h4>
+<h4 align="center">& 12월 -2주 커미션, 외주 안받습니다 &</h4>
