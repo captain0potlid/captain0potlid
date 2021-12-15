@@ -1,11 +1,22 @@
-<h1 align="center">안녕! 나는 야생의 captain0potlid이다!</h1>
+<h1 align="center">Hi 👋, I'm AndreiWasFound</h1>
+<h3 align="center">An minecraft plugins developer</h3>
 
-<h4 align="center">captain0potlid#2527, max60014gmx@gmail.com, Yunchan Je</h4>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=captain0potlid" alt="captain0potlid" /> </p>
 
-<h4 align="center">원하는 플러그인.모드도 만들어준다구!</h4>
+- 🎖 전 마인크레프트 하이픽셀 네트워크 7기 플러그인 개발자 [2018-2021]
+- 🎖 전 멀티버스 플러그인 개발 기획자 [2016-2020]
+- 🎖 전 BypassDPI 개발자 [2019-배포금지]
+- 
+- 🔥 현 마인크레프트 하이픽셀 네트워크 8기 운영기획자
+- 🔥 현 DeltaTimes 총괄 개발담당
+-
+- [공지] ⚡ BypassDPI 과기부 불법 프로그램 검열로 인한 배포중지 안내 ⚡
+- [공지] ❄ AAEA 플러그인 config.yml 형식 1.18버전 형식 변경 안내 ❄
 
-<h4 align="center">#사용언어 - JAVA, NODE.js, kotlin, python, JS, go</h4>
-<h4 align="center">#작업분야 - Minecraft, Kubble space program, WindowsOS, webTF</h4>
 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=captain0potlid&show_icons=true" alt="captain0potlid" /> </p>
 
-<h4 align="center">& 12월 -2주 커미션, 외주 안받습니다 &</h4>
+<p align="center">
+<a href="https://twitter.com/captain0potlid" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="captain0potlid" height="20" width="20" /></a>
+<a href="https://www.youtube.com/c/captain0potlid" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="captain0potlid" height="20" width="20" /></a>
+</p>
