@@ -11,7 +11,7 @@
 - 🔥 현 DeltaTimes 총괄 개발담당
 -
 - [공지] ⚡ BypassDPI 과기부 불법 프로그램 검열로 인한 배포중지 안내 ⚡
-- [공지] ❄ AAEA 플러그인 config.yml 형식 1.18버전 형식 변경 안내 ❄
+- [공지] ❄ AAEA 플러그인 config.yml 형식 1.18.1 버전 형식 변경 안내 ❄
 
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=captain0potlid&show_icons=true" alt="captain0potlid" /> </p>
