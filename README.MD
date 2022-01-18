@@ -1,4 +1,4 @@
-<h1 align="center">나다!</h1>
+<h1 align="center">I am captain 0 poto lido</h1>
 <h3 align="center">An minecraft plugins developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=captain0potlid" alt="captain0potlid" /> </p>
