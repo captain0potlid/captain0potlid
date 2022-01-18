@@ -9,8 +9,8 @@
 - 
 - 🔥 현 마인크레프트 하이픽셀 네트워크 8기 운영기획자
 - 🔥 현 DeltaTimes 총괄 개발담당
--
-- [공지] ❄ AAEA 플러그인 config.yml 형식 1.18.1 버전 형식 변경 안내 ❄
+
+- **Captain0potlid 개인 사이트 개발 중! 2월 말에 공개할 듯!(개인 공지용)**
 
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=captain0potlid&show_icons=true" alt="captain0potlid" /> </p>
