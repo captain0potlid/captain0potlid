@@ -3,12 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=captain0potlid" alt="captain0potlid" /> </p>
 
-- 🎖 전 마인크레프트 하이픽셀 네트워크 7기 플러그인 개발자 [2018-2021]
-- 🎖 전 멀티버스 플러그인 개발 기획자 [2016-2020]
-- 🎖 전 BypassDPI 개발자 [2019-배포금지]
-- 
-- 🔥 현 마인크레프트 하이픽셀 네트워크 8기 운영기획자
-- 🔥 현 DeltaTimes 총괄 개발담당
+- 일부 과거 행적 관련해서 어....걱정되서 하나씩 지우다 보니 다 지워버림 ㅋㅎ 암튼 행전 별거 다했던놈임!!
 
 - **Captain0potlid 개인 사이트 개발 중! 2월 말에 공개할 듯!(개인 공지용)**
 
