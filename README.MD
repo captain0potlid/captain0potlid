@@ -6,7 +6,7 @@
 - 일부 과거 행적 관련해서 어....걱정되서 하나씩 지우다 보니 다 지워버림 ㅋㅎ 암튼 행전 별거 다했던놈임!!
 
 - **[3-4월] 컨디션 난조로 개발 속도가 더딜 예정.**
-- **<현재 진행 중> DeltaTimes(Dotmagic INC 공발, JAVA) / RE-YUNCHAN(개인, Knoledge map)**
+- **<현재 진행 중> DeltaTimes(Dotmagic INC 공발, JAVA) / RE-YUNCHAN(개인, knowledge map)**
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=captain0potlid&show_icons=true" alt="captain0potlid" /> </p>
 
