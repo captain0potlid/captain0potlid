@@ -1,5 +1,5 @@
 <h1 align="center">My Name Is Captain0potlid!!!</h1>
-<h3 align="center">Variaty wide-Covered content developer</h3>
+<h3 align="center">welcome to my world♥</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=captain0potlid" alt="captain0potlid" /> </p>
 
