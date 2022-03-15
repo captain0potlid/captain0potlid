@@ -7,7 +7,8 @@
 
 - **[3-4월] 컨디션 난조로 개발 속도가 더딜 예정.**
 - **<현재 진행 중> DeltaTimes(Dotmagic INC 공발, JAVA) / RE-YUNCHAN(개인, knowledge map)**
-
+**&&중요!!&& 프로젝트 파일 다운로드 시 정식배포 버전만 실행해주세요(렌더링 금지)**
+**&&중요!!&& 3월 16일 NEW// DeltaTimes 서버 기획 완료!!! 노션 읽어주세요!!!!**
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=captain0potlid&show_icons=true" alt="captain0potlid" /> </p>
 
 <p align="center">
