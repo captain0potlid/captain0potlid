@@ -1,4 +1,4 @@
-<h1 align="center">HTTPS://GITHUB.COM/CAPTAIN)POTLID</h1>
+<h1 align="center">HTTPS://GITHUB.COM/CAPTAIN0POTLID</h1>
 <h3 align="center">Deprecated Area of Github</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=captain0potlid" alt="captain0potlid" /> </p>
